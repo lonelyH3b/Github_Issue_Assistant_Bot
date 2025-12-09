@@ -2,6 +2,8 @@
 
 LumaBot is a GitHub bot built with FastAPI and gidgethub that interacts with issue creators by thanking them and reacting with a love emoji. It is designed to enhance community engagement while maintaining a simple and efficient workflow.
 
+<img src="destination/LumaBot.png" alt="Luma-chan-banner">
+
 ## Meet Luma (ルマ)! 🌸
 Konnichiwa!~ 💕 I'm Luma (ルマ), your friendly GitHub assistant! I'm here to make sure every issue creator feels appreciated. I'll drop by with a sweet "Thank you!" and a little love. Let's make GitHub a warm and happy place together! (≧◡≦) 💖
 
